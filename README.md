@@ -2,8 +2,6 @@
 
 Microsoft Security DevOps (MSDO) is a command line application which integrates static analysis tools into the development cycle. MSDO installs, configures and runs the latest versions of static analysis tools (including, but not limited to, SDL/security and compliance tools). MSDO is data-driven with portable configurations that enable deterministic execution across multiple environments. For tools that output results in or MSDO can convert their results to SARIF, MSDO imports into a normalized file database for seamlessly reporting and responding to results across tools, such as forcing build breaks.
 
-Test content to force run
-
 Run locally. Run remotely.
 
 ![Microsoft Security DevOps](https://github.com/microsoft/security-devops-action/workflows/MSDO%20Sample%20Workflow/badge.svg)  
